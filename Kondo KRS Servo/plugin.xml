@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginV1XML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FRIENDLY_NAME>Feetech Serial Bus Servo</FRIENDLY_NAME>
+  <DLL_FILENAME>Feetech Bus Servos.dll</DLL_FILENAME>
+  <AUTHOR_NAME>Synthiam</AUTHOR_NAME>
+  <LICENSE_URL>https://synthiam.com/Software/plugin-license.aspx</LICENSE_URL>
+  <PLUGIN_GUID>2a566438-0793-41cd-a618-8cacacf959b3</PLUGIN_GUID>
+  <CATEGORY_TYPE>Servo</CATEGORY_TYPE>
+  <DESCRIPTION>Control Feetech serial bus servos</DESCRIPTION>
+  <VersionRelease>3</VersionRelease>
+</PluginV1XML>

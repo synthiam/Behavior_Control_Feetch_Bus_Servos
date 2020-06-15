@@ -1,0 +1,16 @@
+C:\My Documents\SVN\Developer - Controls\Feetech_Bus_Servos\Kondo KRS Servo\obj\Debug\Feetech Bus Servos.csprojAssemblyReference.cache
+C:\My Documents\SVN\Developer - Controls\Feetech_Bus_Servos\Kondo KRS Servo\obj\Debug\Feetech_Servos.FormConfig.resources
+C:\My Documents\SVN\Developer - Controls\Feetech_Bus_Servos\Kondo KRS Servo\obj\Debug\Feetech_Servos.FormMain.resources
+C:\My Documents\SVN\Developer - Controls\Feetech_Bus_Servos\Kondo KRS Servo\obj\Debug\Feetech_Servos.Properties.Resources.resources
+C:\My Documents\SVN\Developer - Controls\Feetech_Bus_Servos\Kondo KRS Servo\obj\Debug\Feetech Bus Servos.csproj.GenerateResource.cache
+C:\My Documents\SVN\Developer - Controls\Feetech_Bus_Servos\Kondo KRS Servo\obj\Debug\Feetech Bus Servos.csproj.CoreCompileInputs.cache
+C:\Users\All Users\ARC\Plugins\5df2a551-d124-43ac-9f5d-3b6234d106ae\title.png
+C:\Users\All Users\ARC\Plugins\5df2a551-d124-43ac-9f5d-3b6234d106ae\plugin.xml
+C:\Users\All Users\ARC\Plugins\5df2a551-d124-43ac-9f5d-3b6234d106ae\Feetech Bus Servos.dll
+C:\Users\All Users\ARC\Plugins\5df2a551-d124-43ac-9f5d-3b6234d106ae\Feetech Bus Servos.pdb
+C:\My Documents\SVN\Developer - Controls\Feetech_Bus_Servos\Kondo KRS Servo\obj\Debug\Feetech Bus Servos.dll
+C:\My Documents\SVN\Developer - Controls\Feetech_Bus_Servos\Kondo KRS Servo\obj\Debug\Feetech Bus Servos.pdb
+C:\Users\All Users\ARC\Plugins\2a566438-0793-41cd-a618-8cacacf959b3\plugin.xml
+C:\Users\All Users\ARC\Plugins\2a566438-0793-41cd-a618-8cacacf959b3\title.png
+C:\Users\All Users\ARC\Plugins\2a566438-0793-41cd-a618-8cacacf959b3\Feetech Bus Servos.dll
+C:\Users\All Users\ARC\Plugins\2a566438-0793-41cd-a618-8cacacf959b3\Feetech Bus Servos.pdb
